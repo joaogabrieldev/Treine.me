@@ -49,7 +49,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ## :fire: Rodando a aplicação
 ```bash
 # Clone este repositório
-$ git clone git@github.com:joaogabrieldev/Flutuar.git
+$ git clone git@github.com:joaogabrieldev/Treine.me.git
 
 # Acesse a pasta do projeto no vscode ou no seu gerenciador de arquivos
 
